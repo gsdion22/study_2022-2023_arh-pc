@@ -187,7 +187,7 @@ header-includes:
 
 для варианта 10 - 41,62,35
 
-![Файл lab8-3.asm](image/24.png){ #fig:012 width=70%, height=70% }
+![Файл lab8-3.asm](image/24.png){ #fig:024 width=70%, height=70% }
 
 ![Программа lab8-3.asm](image/10.png){ #fig:010 width=70%, height=70% }
 
